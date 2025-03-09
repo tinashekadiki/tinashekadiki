@@ -16,7 +16,7 @@ I’m a **Principal Software Engineer** with expertise in:
 ## 💬 Let's Connect  
 📩 **Email:** [prof.kadiki@gmail.com](mailto:prof.kadiki@gmail.com)  
 💻 **GitHub:** [github.com/tinashekadiki](https://github.com/tinashekadiki)  
-🌍 **LinkedIn:** [linkedin.com/in/kadiki](#)  
+🌍 **LinkedIn:** [linkedin.com/in/kadiki](https://linkedin.com/in/kadiki)  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinashekadiki&show_icons=true&theme=radical)  
