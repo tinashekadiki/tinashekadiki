@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Tinashe Kadiki** (@tinashekadiki)  
 
-🚀 **Software Engineer | AI & IoT Enthusiast **  
+🚀 **Software Engineer | AI & IoT Enthusiast**  
 
 ## 🔹 About Me  
 I’m a **Principal Software Engineer** with expertise in:  
